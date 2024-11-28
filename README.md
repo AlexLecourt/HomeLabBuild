@@ -20,13 +20,15 @@ Designed for aspiring SOC Analysts, this challenge provided hands-on experience 
   - 🎯 **Target Machines & Attacker Machines**  
   - **And much more!**  
 
+- Execute Attacks on Target VMs
+- Investigate, Respond, and Learn from Attack Patterns
 ---
 
 ### 🚀 What I Learned  
 
 This challenge was an incredible learning experience! I gained valuable insights into:  
 - SOC workflows  
-- Setting up and managing security infrastructure  
+- Setting up, managing and troubleshoot Machines, SIEM and other Tools like Mythic  
 - Analyzing alerts and investigating incidents  
 
 ---
@@ -90,3 +92,12 @@ Attack Diagram:
 
 Here is a little screenshot of my NotePad to show that the process was a bit longer than 5 steps! 😅  
 ![NotePad Screenshot](https://imgur.com/T1asEfe.png)  
+
+---
+
+## 🏁 Conclusion  
+
+This project was an exciting and rewarding journey into the world of SOC operations. By building a comprehensive lab environment, launching simulated attacks, and analyzing them using Elastic SIEM, I gained hands-on experience.
+
+Feel free to explore, learn, and adapt this project for your own hands-on practice. If you have any questions or feedback, don't hesitate to reach out—I'm always happy to connect and discuss!  
+
