@@ -97,11 +97,13 @@ Overview <br />
 <br />
 <img src="https://imgur.com/O6DHqKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br 
-## 📘 My Notes
-
-[Click here to view my notes](link-to-your-notes)
-
+<br />
+Here is a little screenshot of my NotePad (to show that the Process was a bit longer than 5 Steps :D ) <br/>
+<br />
+<br />
+<img src="https://imgur.com/T1asEfe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
 </p>
 
 <!--
